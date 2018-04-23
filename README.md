@@ -1,5 +1,5 @@
 # fundus_binary_classification
-## 眼底图二分类——inception v2 迁移学习
+## 眼底图二分类——inception v3 迁移学习
 参考[https://blog.csdn.net/White_Idiot/article/details/78816850](https://blog.csdn.net/White_Idiot/article/details/78816850)
 tensorflow 实现谷歌[INCEPTION-V3](https://storage.googleapis.com/download.tensorflow.org/models/inception_dec_2015.zip)迁移学习
 
